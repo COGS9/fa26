@@ -1,0 +1,171 @@
+# Fall 2026 — week-by-week calendar (mirrors the syllabus table).
+#
+# Columns: Lecture Topics | Due dates / Events | Section (Fri).
+# Lecture topics are intentionally NOT tied to a specific MWF day. Events carry
+# a color-coded badge (label + type). Day hints come directly from the syllabus.
+#
+# Things to confirm later:
+#   1. "Algorithms quiz" (Week 8) appears in addition to the five R-quizzes.
+#   2. Guest-lecture names: Taylor Butler (Week 4), Tyler Haas (Week 10).
+
+- week: 0
+  title: "Week 0"
+  topics:
+    - Course overview
+  events:
+    - label: MISC
+      type: misc
+      title: Pre-course survey released
+    - label: QUIZ
+      type: quiz
+      title: Syllabus quiz released
+    - label: QUIZ
+      type: quiz
+      title: R1 quiz released
+  section: n/a
+
+- week: 1
+  title: "Week 1"
+  topics:
+    - What is data science?
+    - Data science questions
+  events: []
+  section: Meet & greet · discuss R1 · project examples · group finding
+
+- week: 2
+  title: "Week 2"
+  topics:
+    - Ethics & privacy
+    - Data & data types
+  events:
+    - label: MISC
+      type: misc
+      title: Pre-course survey due
+    - label: QUIZ
+      type: quiz
+      title: Syllabus quiz due
+    - label: QUIZ
+      type: quiz
+      title: R1 quiz due
+  section: Discuss R2 · group finding
+
+- week: 3
+  title: "Week 3"
+  topics:
+    - Obtaining data
+    - Wrangling data
+  events:
+    - label: QUIZ
+      type: quiz
+      title: R2 quiz due
+    - label: PROJ
+      type: project
+      title: Project group-finding survey due
+  section: Meet with project group
+
+- week: 4
+  title: "Week 4"
+  topics:
+    - Data visualization
+  events:
+    - label: EXAM
+      type: exam
+      title: EXAM 1 (Mon)
+    - label: QUIZ
+      type: quiz
+      title: R3 quiz due (Wed)
+    - label: GUEST
+      type: lecture
+      title: 'Guest lecture: Taylor Butler, Research Lead, Dewey Data (Fri)'
+  section: Exam review
+
+- week: 5
+  title: "Week 5"
+  topics:
+    - Data visualization (cont.)
+    - Exploratory data analysis
+  events:
+    - label: PROJ
+      type: project
+      title: P1 group project checkpoint 1 due (Mon)
+  section: Exam reflection
+
+- week: 6
+  title: "Week 6"
+  topics:
+    - Statistical inference
+    - Machine learning
+  events:
+    - label: QUIZ
+      type: quiz
+      title: R4 quiz due (Mon)
+  section: Discuss R4 · A1 help
+
+- week: 7
+  title: "Week 7"
+  topics:
+    - Machine learning (cont.)
+  events:
+    - label: HW
+      type: hw
+      title: A1 data visualization due (Mon)
+    - label: MISC
+      type: misc
+      title: Veterans Day — no class (Wed)
+  section: A2 help · group work
+
+- week: 8
+  title: "Week 8"
+  topics:
+    - Algorithms & AI
+    - No classes — recorded lecture
+  events:
+    - label: HW
+      type: hw
+      title: A2 p-values due (Mon)
+    - label: QUIZ
+      type: quiz
+      title: Algorithms quiz due (Fri)
+  section: Exam prep
+
+- week: 9
+  title: "Week 9"
+  topics:
+    - Guest lecture
+  events:
+    - label: EXAM
+      type: exam
+      title: EXAM 2 (Mon)
+    - label: QUIZ
+      type: quiz
+      title: R5 quiz due (Wed)
+    - label: MISC
+      type: misc
+      title: No class — Thanksgiving (Fri)
+  section: A3 help · group work
+
+- week: 10
+  title: "Week 10"
+  topics:
+    - Data science applications
+    - Future of data science
+  events:
+    - label: HW
+      type: hw
+      title: A3 machine learning due (Mon)
+    - label: GUEST
+      type: lecture
+      title: 'Guest lecture: Tyler Haas (Wed)'
+  section: Exam reflection · group work
+
+- week: 11
+  title: "Week 11"
+  topics: []
+  events:
+    - label: PROJ
+      type: project
+      title: P2 group project checkpoint 2 due (Tue)
+    - label: MISC
+      type: misc
+      title: NO FINAL EXAM
+  section: n/a

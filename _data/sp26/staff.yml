@@ -1,0 +1,77 @@
+- name: Lucy Lai (Instructor)
+  email: lai@ucsd.edu
+  website: https://www.lucylai.com
+  photo: https://cogs9.github.io/sp26/images/lucy.png
+  description: B.A. in CogSci @ Rice → Ph.D. in Neuroscience @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
+  hometown: Houston, TX 🤠
+  askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
+
+- name: Jiesen Zhang (TA)
+  email: jiz147@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/jiesen.png
+  description: B.S. in Data Science @ UCSD → 1st-year MSCS student
+  hometown: China 🇨🇳 
+  askabout: machine learning, film and music (especially Asian and European ones!), photography 📸, and travel ✈️
+
+- name: Fuling Sun (TA)
+  email: fusun@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/fuling.jpg
+  description: 4th-year Cogs Ph.D. student (human-computer interaction)
+  hometown: China 🇨🇳 
+  askabout: pingu, musical, indie games, things you feel comfortable sharing with me :) 
+
+- name: Tony Li (TA)
+  email: toli@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/tony.jpg
+  description: 3rd-year CSE PhD Student (HCI)
+  hometown: Fayetteville, AR 🐗
+  askabout: movies, video games, orchestral music, disc sports 🥏
+
+- name:  Alex Nieto (PLA)
+  email: alnieto@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/alex.jpg
+  description: 4th-year Cogs ML + Neural Computation
+  hometown: Garden Grove, CA
+  askabout: (K)pop music, Pokémon, Stardew Valley
+
+- name: Michael Yang (PLA)
+  email: miy012@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/michael.png
+  description: 4th-year COGS ML
+  hometown: Bay Area, CA
+  askabout: Basketball and baking!
+  
+- name: Gabriel Lopes (PLA)
+  email: glopes@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/gabriel.png
+  description: 5th-Year COGS ML
+  hometown: Brazil 🇧🇷
+  askabout: predictive modeling, sports, travel
+
+- name: Tanvi Vidyala (PLA)
+  email: tvidyala@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/tanvi.png
+  description: 3rd-Year COGS ML+ Data Science Minor
+  hometown: Fremont, CA
+  askabout: cafe recs, music, personality tests, journaling
+
+- name: Amelia Oo (PLA)
+  email: aoo@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/amelia.jpg
+  description: 3rd-year Data Science
+  hometown: Mandalay, Burma 🇲🇲
+  askabout: transfer student experience, travel, content creation, food 🥘
+  
+- name: Yash Date (PLA)
+  email: ydate@ucsd.edu
+  photo: https://cogs9.github.io/sp26/images/yash.jpg
+  description: 2nd-year Data Science
+  hometown: Austin, TX 🤠
+  askabout: undergrad research, COGS and DSC clubs, how to pick a specialization
+
+- name: Pradyumna Sripada (Grader)
+  email: psripada@ucsd.edu 
+  photo: https://cogs9.github.io/sp26/images/pradyumna.png
+  description: 1st-year MSDS student
+  hometown: Bangalore, India 🇮🇳
+  askabout: machine learning, climate modeling, hackathons, hiking

@@ -1,0 +1,34 @@
+# Welcome section
+quarter: Winter 2026
+building: PETER 110
+timings: Tues & Thurs 9:30-10:50AM
+edstem_link:
+campuswire_link: 
+gradescope_link: 
+gradescope_entry_code: TBD
+
+office_hours:
+  - name: Lucy Lai
+    day:
+    time: 
+    location: 
+    zoom_link: 
+    zoom_pw: 
+
+announcement:
+  color: green
+  text: We are all very excited that you decided to join us on this whirlwind tour of data science. All relevant info, e.g. due dates, assignment links, etc. are found on this website. We look forward to teaching and working with all of you and hope to meet you in office hours. Check out the **Getting Started** section so you can hit the ground running when class starts!
+
+discussion_sections:
+  - section: TBD
+    day: WED
+    time: TBD
+    location: TBD
+    ta: TBD
+    tutor: TBD
+ 
+final_exam:
+  - section: TBD
+    day: TBD
+    time: TBD
+    location: TBD

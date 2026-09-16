@@ -1,0 +1,70 @@
+# Welcome section
+quarter: Fall 2026
+building: FAH 1301
+timings: Mon / Wed / Fri, 2:00-2:50PM
+edstem_link:
+campuswire_link: 
+gradescope_link: 
+gradescope_entry_code: TBD
+
+office_hours:
+  - name: Brendan Tomoschuk (Prof. T)
+    day:
+    time: 
+    location: CSB 259
+    zoom_link: 
+    zoom_pw: 
+  - name: Brendan Tomoschuk (Prof. T)
+    day:
+    time: 
+    location: Zoom
+    zoom_link: 
+    zoom_pw: 
+  - name: TAs
+    day:
+    time: 
+    location: 
+    zoom_link: 
+    zoom_pw: 
+
+announcement:
+  color: green
+  text: Welcome to COGS 9! All relevant info — due dates, assignment links, etc. — is on this website. Post questions on Piazza (accessed through Canvas), and we look forward to seeing you in lecture and section.
+
+discussion_sections:
+  - section: A01
+    day: FRI
+    time: 9:00-9:50AM
+    location: COA 117
+    ta: TBD
+    tutor: TBD
+  - section: A02
+    day: FRI
+    time: 10:00-10:50AM
+    location: COA 117
+    ta: TBD
+    tutor: TBD
+  - section: A03
+    day: FRI
+    time: 11:00-11:50AM
+    location: CSB 005
+    ta: TBD
+    tutor: TBD
+  - section: A04
+    day: FRI
+    time: 12:00-12:50PM
+    location: Coalition B30
+    ta: TBD
+    tutor: TBD
+  - section: A05
+    day: FRI
+    time: 1:00-1:50PM
+    location: D&I 121
+    ta: TBD
+    tutor: TBD
+
+final_exam:
+  - section: None
+    day: N/A
+    time: N/A
+    location: No final exam — group project due Tuesday of Finals week

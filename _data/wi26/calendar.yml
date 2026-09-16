@@ -1,0 +1,425 @@
+- week: 1
+  title: "Week 1 - Intro to Data Science<br>
+    <small>
+      📘 Read <a href=\"https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">Syllabus & Course Policies</a><br>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-1\" target=\"_blank\" rel=\"noopener\">R1: 50 Years of Data Science</a>
+    </small>"
+
+  days:
+    - date: "2026-01-05"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: '<span style="color: red;">NO Discussion Section</span>'
+
+    - date: "2026-01-06"
+      in_class: true
+      events:
+        - label: LEC 1
+          type: lecture
+          title: Course overview & what is data science?
+          slides: https://drive.google.com/file/d/16iH9zJfOkqCvmqjuKevgaOMnZvWSDQom/view?usp=sharing
+        - label: MISC
+          type: misc
+          title: '<a href="https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing" target="_blank" rel="noopener">💡 Webclicker 101</a>'
+
+    - date: "2026-01-08"
+      in_class: true
+      events:
+        - label: LEC 2
+          type: lecture
+          title: Data science questions
+          slides: https://drive.google.com/file/d/1IeG4GkKgU2BrNcJgvv2CCfQ4zGPlxPT9/view?usp=drive_link
+
+    - date: "2026-01-09"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 2
+  title: "Week 2 - Ethics & Data<br>
+    <small>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-2\" target=\"_blank\" rel=\"noopener\">R2: Ethics Readings</a>
+    </small>"
+  days:
+    - date: "2026-01-12"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: 9am & 10am sections (Fuling)
+          slides: https://drive.google.com/file/d/1VmBgmWXYW9u71JRWdD77X9TjnJqY7akf/view?usp=sharing
+        - label: DISC
+          type: disc
+          title: 11am & 1pm sections (Ian)
+          slides: https://drive.google.com/file/d/1HAROQ3BLHI0kMeOaeB7sJNEohnmGVO6D/view?usp=drive_link
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm sections (Jiesen)
+          slides: https://drive.google.com/file/d/1t0ngFGHcthZWRF6zU686lcPhcGroNwyQ/view?usp=drive_link
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
+
+          
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
+          
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-01-13"
+      in_class: true
+      events:
+        - label: LEC 3
+          type: lecture
+          title: Ethics and privacy
+          slides: https://drive.google.com/file/d/1KPdWOjttAU_HQSRADa48VLO4N5-4_OJx/view?usp=drive_link
+
+    - date: "2026-01-15"
+      in_class: true
+      events:
+        - label: LEC 4
+          type: lecture
+          title: Data & data types
+          slides: https://drive.google.com/file/d/1eKJPBqWTW0ay2t9aFMOQgaFYASKojc3q/view?usp=drive_link
+          
+        - label: MISC
+          type: misc
+          title: '<a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">Project group-finding form</a>'
+
+    - date: "2026-01-16"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 3
+  title: "Week 3 - Data Collection and Wrangling<br>
+    <small>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-3\" target=\"_blank\" rel=\"noopener\">R3: Data Organization Readings</a>
+    </small>"
+  days:
+    - date: "2026-01-19"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
+          slides: 
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R2 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
+    
+    - date: "2026-01-20"
+      in_class: true
+      events:
+        - label: LEC 5
+          type: lecture
+          title: Obtaining data
+          slides: https://drive.google.com/file/d/1Q0t2Fz--3MoJFJduhrpB0TPWX_53xRgK/view?usp=sharing
+          
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-01-22"
+      in_class: true
+      events:
+        - label: LEC 6
+          type: lecture
+          title: Data wrangling
+          slides: https://drive.google.com/file/d/1t-3o6EPvAzcgpn73cA3fSkDlyhTOLwrg/view?usp=drive_link
+
+    - date: "2026-01-23"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+ 
+- week: 4
+  title: "Week 4"
+  days:
+    - date: "2026-01-26"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: ALL Sections — Exam 1 Review (Practice questions linked below)
+          slides: https://docs.google.com/presentation/d/1cTPTNVa2opKePvPEYsjDh8W9ZFAIyH36IeyOuNxHi2o/edit?usp=sharing
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R3 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241403" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-01-27"
+      in_class: true
+      events:
+        - label: EXAM
+          type: exam
+          title: EXAM 1 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!). Webclicker question slides are linked below.
+          slides: https://drive.google.com/file/d/1SbXMjekmnXvSxeEnfIk0nwslhuB0laKI/view?usp=drive_link
+          
+    - date: "2026-01-29"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "Guest lecture: Eddie Reyes — Co-Founder, Buoy Health & Forbes 30u30"
+          slides: 
+
+    - date: "2026-01-30"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 5
+  title: "Week 5 - Data Visualization & EDA<br>
+       <small>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R4: Data Visualization Readings</a>
+    </small>"
+  days:
+    - date: "2026-02-02"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: ALL Sections — Post-exam review
+          slides: https://docs.google.com/presentation/d/1VxLJ2ncs420T9mVJq6HoN9YAlJwKNdGCb2cfWga6nm4/edit?usp=sharing
+        - label: PROJ
+          type: project
+          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          
+
+    - date: "2026-02-03"
+      in_class: true
+      events:
+        - label: LEC 7
+          type: lecture
+          title: Data visualization (given by aspiring professor & PLA, Alex Nieto!) 
+          slides: https://drive.google.com/file/d/11jUI6ipO3bqK_Hl92aNwBa2qVHJmODp5/view?usp=drive_link
+
+    - date: "2026-02-05"
+      in_class: true
+      events:
+        - label: LEC 8
+          type: lecture
+          title: Exploratory data analysis
+          slides: https://drive.google.com/file/d/1CrvDr-YG0UUOnBC2v5-QZuZxLnm0Cg3t/view?usp=sharing
+
+    - date: "2026-02-06"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 6
+  title: "Week 6 - Statistical Inference & Machine Learning"
+  days:
+    - date: "2026-02-09"
+      in_class: true
+      events:
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241404" target="_blank" rel="noopener">submit here</a>'
+        - label: DISC
+          type: disc
+          title: 9am & 10am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 11am & 1pm sections (Ian)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm sections (Jiesen)
+          slides: 
+        
+    - date: "2026-02-10"
+      in_class: true
+      events:
+        - label: LEC 9
+          type: lecture
+          title: Statistical inference & hypothesis testing
+          slides: https://drive.google.com/file/d/1YPp4jeAJW-z4bLh5EKS8K2sQFqJXYHfz/view?usp=drive_link
+
+    - date: "2026-02-12"
+      in_class: true
+      events:
+        - label: LEC 10
+          type: lecture
+          title: Machine learning I - Supervised Learning
+          slides: https://drive.google.com/file/d/17x7kH9HNRFRJCfyKhb4aW2m4JYXA-s2l/view?usp=drive_link
+
+    - date: "2026-02-13"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 7
+  title: "Week 7 - Machine Learning"
+  days:
+    - date: "2026-02-16"
+      in_class: false
+      events:
+        - label: DISC
+          type: disc
+          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
+          slides: 
+        - label: HW
+          type: hw
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-02-17"
+      in_class: true
+      events:
+        - label: LEC 11
+          type: lecture
+          title:  Machine learning II - Supervised Learning Model Evaluation 
+          slides: https://drive.google.com/file/d/1HARvuWEgY3DzJLONq6E4fPWGo_hvD0QA/view?usp=drive_link
+    
+    - date: "2026-02-19"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "9am ZOOM Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator (see details on Canvas)" 
+
+    - date: "2026-02-20"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 8
+  title: "Week 8 - Machine Learning & Reproducibility<br>
+    <small>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
+    </small>"
+  days:
+    - date: "2026-02-23"
+      in_class: false
+      events:
+        - label: HW
+          type: hw
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+        - label: DISC
+          type: disc
+          title: ALL Sections - Exam 2 Review 
+          slides: https://docs.google.com/presentation/d/1RLsPVelmSRIsDTo3Qn_TNeq46FixKOvLTLRpjxOpDOw/edit?usp=sharing
+    
+    - date: "2026-02-24"
+      in_class: true
+      events:
+        - label: LEC 12
+          type: lecture
+          title: Machine learning III - Unsupervised Learning & Reinforcement Learning
+          slides: https://drive.google.com/file/d/1qzqMmbzHmHXwzBT4sSH_rcT14GTf-Vb3/view?usp=drive_link
+
+    - date: "2026-02-26"
+      in_class: true
+      events:
+        - label: LEC 13
+          type: lecture
+          title: Algorithmic Bias & Fairness
+          slides: https://drive.google.com/file/d/1CqKOdM-k7jMtkRlv7mkVCPlq2b4nqU3m/view?usp=drive_link
+
+    - date: "2026-02-27"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 9
+  title: "Week 9"
+  days:
+    - date: "2026-03-02"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: ALL Sections - Exam 2 More Review 
+          slides: https://docs.google.com/presentation/d/1PsR1kishMzdt9Zmk70rN8cz848p3FQOAIf0vvfsC-FE/edit?usp=sharing
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241405/" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-03-03"
+      in_class: true
+      events:
+        - label: EXAM
+          type: exam
+          title: EXAM 2 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
+          slides: https://drive.google.com/file/d/1yrQBdlPjZ1N2U2Am9UPvF-ZypGp9RdBN/view?usp=drive_link
+          
+    - date: "2026-03-05"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "ZOOM Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI (see Zoom details on Canvas)"
+
+    - date: "2026-03-06"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 10
+  title: "Week 10 - Applications & Future of Data Science"
+  days:
+    - date: "2026-03-09"
+      in_class: false
+      events:
+        - label: HW
+          type: hw
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+      
+        - label: DISC
+          type: disc
+          title: Post-exam review (all sections)
+          slides: https://docs.google.com/presentation/d/12fcwUgMfADwzX67qtMFWccdkshhdE-X3DMxIkA2JJM8/edit?usp=sharing
+
+    - date: "2026-03-10"
+      in_class: true
+      events:
+        - label: LEC 14
+          type: lecture
+          title: Data science applications
+          slides: https://drive.google.com/file/d/1QPVdDg0i1WlvTo_cXfGwM3v_ETZjtUNz/view?usp=drive_link
+
+    - date: "2026-03-12"
+      in_class: true
+      events:
+        - label: LEC 15
+          type: lecture
+          title: Future of data science
+          slides: https://drive.google.com/file/d/1RTJEjq8inQLNATb5XX5M5oHLppvoIZy0/view?usp=drive_link
+
+- week: 11
+  title: "Week 11 - Final Project<br>
+    <small>
+      🎥 Final project due this week. **NO FINAL EXAM!**<br>
+    </small>"
+  days:
+    - date: "2026-03-17"
+      in_class: false
+      events:
+        - label: PROJ
+          type: project
+          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-2" style="color: red;">P2 Group Project Checkpoint 2 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'

@@ -1,0 +1,39 @@
+.week {
+  @extend .card;
+}
+
+.week-header {
+  @extend .card-header;
+}
+
+.week-body {
+  @extend .card-body;
+}
+
+// Color-coded event badges (backgrounds match the original COGS 9 calendar).
+.label-lecture { background-color: #ECEBED; }
+.label-disc { background-color: #779ECC; }
+.label-hw { background-color: #E94C4B; }
+.label-quiz { background-color: #FF8144; }
+.label-exam { background-color: #000000; }
+.label-misc { background-color: #F2C76E; }
+.label-project { background-color: #0ea174; }
+
+// Light backgrounds need dark text (base .label uses white text).
+.label-lecture, .label-misc {
+  color: #5c5962 !important;
+}
+
+// Event list: no bullets, badge + text on one line with spacing.
+.week-events {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: $sp-2;
+
+    .label {
+      margin-left: 0;
+    }
+  }
+}

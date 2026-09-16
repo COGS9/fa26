@@ -1,0 +1,71 @@
+- name: Lucy Lai (Instructor)
+  email: lai@ucsd.edu
+  website: https://www.lucylai.com
+  photo: https://cogs9.github.io/wi26/images/lucy.png
+  description: B.A. in CogSci @ Rice → Ph.D. in Neuroscience @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
+  hometown: Houston, TX 🤠
+  askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
+
+- name: Jiesen Zhang (TA)
+  email: jiz147@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/jiesen.png
+  description: B.S. in Data Science @ UCSD → 1st-year MSCS student
+  hometown: China 🇨🇳 
+  askabout: machine learning, film and music (especially Asian and European ones!), photography 📸, and travel ✈️
+
+- name: Fuling Sun (TA)
+  email: fusun@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/fuling.jpg
+  description: 4th-year Cogs Ph.D. student (human-computer interaction)
+  hometown: China 🇨🇳 
+  askabout: pingu, musical, indie games, things you feel comfortable sharing with me :) 
+
+- name: Ian Zane (TA)
+  email: izane@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/ian.jpg
+  description: B.S. in Cogs ML & Math @ UCSD →  1st-year Cogs Ph.D. student (neuroscience)
+  hometown: New Providence, NJ
+  askabout: Grad school, COGS/math departments, neural data science, rats🐀, cats🐈, & fantasy novels
+  
+
+- name:  Alex Nieto (PLA)
+  email: alnieto@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/alex.jpg
+  description: 4th-year Cogs ML + Neural Computation
+  hometown: Garden Grove, CA
+  askabout: (K)pop music, Pokémon, Stardew Valley
+
+- name: TQ Zhang (PLA)
+  email: tiz019@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/tq.jpg
+  description: 4th-year Data Science
+  hometown: Dallas, TX 🤠
+  askabout: linguistics/language modeling, music, cooking 🍳
+  
+- name: Adrian Apsay (PLA)
+  email: adapsay@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/adrian.jpg
+  description: 4th-Year Data Science 
+  hometown: San Diego, CA ☀️
+  askabout: basketball🏀  & volleyball🏐, playing/listening to music, traveling, food recs
+
+- name: Brandon Ng (PLA)
+  email: b5ng@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/brandon.jpg
+  description: 4th-Year Data Science  
+  hometown: Bay Area, CA (specifically, Castro Valley)
+  askabout: food recs and bakeries in SD 🥐
+
+- name: Jayminn Anand (PLA)
+  email: j2anand@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/jayminn.jpg
+  description: 4th-year Cogs ML + Neural Computation
+  hometown: San Ramon, CA
+  askabout: cars🏎️, sports (any), music 🎶
+  
+- name:  Zhicheng Wang (Reader)
+  email: zhw049@ucsd.edu
+  photo: https://cogs9.github.io/wi26/images/zhicheng.png
+  description: B.S. in Cogs ML & Math-CS @ UCSD → First-year MSCS student
+  hometown: Fujian, China 🇨🇳 
+  askabout: Video games :O
