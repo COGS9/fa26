@@ -9,21 +9,27 @@ gradescope_entry_code: TBD
 
 office_hours:
   - name: Brendan Tomoschuk (Prof. T)
-    day:
-    time: 
+    day: Wednesdays
+    time: 11:00AM-12:00PM
     location: CSB 259
     zoom_link: 
     zoom_pw: 
   - name: Brendan Tomoschuk (Prof. T)
-    day:
-    time: 
-    location: Zoom
+    day: Thursdays
+    time: 2:00-3:00PM
+    location: Zoom (link)
     zoom_link: 
     zoom_pw: 
-  - name: TAs
-    day:
-    time: 
-    location: 
+  - name: Lindsey Gu (TA)
+    day: Mondays
+    time: 1:00-2:00PM
+    location: Zoom (link)
+    zoom_link: 
+    zoom_pw: 
+  - name: Emily Cheng (TA)
+    day: Tuesdays
+    time: 10:45-11:45AM
+    location: Zoom (link)
     zoom_link: 
     zoom_pw: 
 
@@ -36,31 +42,31 @@ discussion_sections:
     day: FRI
     time: 9:00-9:50AM
     location: COA 117
-    ta: TBD
+    ta: Lindsey Gu
     tutor: TBD
   - section: A02
     day: FRI
     time: 10:00-10:50AM
     location: COA 117
-    ta: TBD
+    ta: Lindsey Gu
     tutor: TBD
   - section: A03
     day: FRI
     time: 11:00-11:50AM
     location: CSB 005
-    ta: TBD
+    ta: Lindsey Gu
     tutor: TBD
   - section: A04
     day: FRI
     time: 12:00-12:50PM
     location: Coalition B30
-    ta: TBD
+    ta: Emily Cheng
     tutor: TBD
   - section: A05
     day: FRI
     time: 1:00-1:50PM
     location: D&I 121
-    ta: TBD
+    ta: Emily Cheng
     tutor: TBD
 
 final_exam:

@@ -1,16 +1,8 @@
-.week {
-  @extend .card;
-}
-
-.week-header {
-  @extend .card-header;
-}
-
-.week-body {
-  @extend .card-body;
-}
-
 // Color-coded event badges (backgrounds match the original COGS 9 calendar).
+.text-muted {
+  color: $grey-dk-000;
+}
+
 .label-lecture { background-color: #ECEBED; }
 .label-disc { background-color: #779ECC; }
 .label-hw { background-color: #E94C4B; }
@@ -24,13 +16,43 @@
   color: #5c5962 !important;
 }
 
+// Schedule table (homepage): one row per week, items sub-listed within cells.
+.schedule-table {
+  width: 100%;
+  font-size: 0.85rem;
+
+  th, td {
+    vertical-align: top;
+  }
+
+  .col-week {
+    white-space: nowrap;
+    width: 6rem;
+  }
+
+  .col-section {
+    min-width: 11rem;
+  }
+}
+
+// Topic list inside schedule cells.
+.week-topics {
+  margin: 0;
+  padding-left: 1.1rem;
+
+  li {
+    margin-bottom: 0.25rem;
+  }
+}
+
 // Event list: no bullets, badge + text on one line with spacing.
 .week-events {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 
   li {
-    margin-bottom: $sp-2;
+    margin-bottom: 0.5rem;
 
     .label {
       margin-left: 0;

@@ -37,12 +37,27 @@ If you are joining the course late and would still like to earn full credit for 
 
 ## Office Hours
 * **Prof. T (Brendan)**:
-  * TBD @ CSB 259
-  * TBD @ Zoom (link)
-* **TAs**: TBD
+  * Wednesdays 11:00AM-12:00PM @ CSB 259
+  * Thursdays 2:00-3:00PM @ Zoom (link)
+* **Lindsey Gu (TA)**: Mondays 1:00-2:00PM @ Zoom (link)
+* **Emily Cheng (TA)**: Tuesdays 10:45-11:45AM @ Zoom (link)
 
 <!-- **{{ course_vars.announcement.text }}** -->
 
-{% for week in calendar %}
-  {% include week.html week=week %}
-{% endfor %}
+## Schedule
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th class="col-week">Week</th>
+      <th>Lecture Topics</th>
+      <th>Due dates / Events</th>
+      <th class="col-section">Section (Fri)</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for week in calendar %}
+      {% include week.html week=week %}
+    {% endfor %}
+  </tbody>
+</table>

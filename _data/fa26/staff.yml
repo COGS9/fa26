@@ -1,21 +1,21 @@
 - name: Brendan Tomoschuk (Instructor)
   email: btomo@ucsd.edu
   website:
-  photo:
+  photo: images/brendan_tomoschuk.jpeg
   description: Instructor — bio coming soon.
   hometown: 
   askabout: 
 
 - name: Lindsey Gu (TA)
   email:
-  photo:
-  description: TA — bio coming soon.
-  hometown: 
-  askabout: 
+  photo: images/LindseyGu_Photo.JPG
+  description: B.S. in Cognitive Science (Design & Interaction) + B.A. in Interdisciplinary Computing and the Arts @ UCSD → 2nd-year M.S. in Computer Science @ UCSD
+  hometown: China 🇨🇳
+  askabout: interactive digital media, musical theater 🎭, museums/exhibitions, photography 📸, and anything weird :)
 
-- name: Min Kim (TA)
+- name: Emily Cheng (TA)
   email:
-  photo:
-  description: TA — bio coming soon.
-  hometown: 
-  askabout: 
+  photo: images/Emily_Photo.jpg
+  description: B.S. in Statistics + Minors in Computer Science & Managerial Economics @ UC Davis → 2nd-year M.S. in Data Science @ UCSD
+  hometown: Bay Area, California
+  askabout: trying new coffee shops, hiking, crocheting, and exploring new places :)

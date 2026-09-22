@@ -1,17 +1,18 @@
-<div class="week">
-  <h3 class="week-header" id="{{ week.title | slugify }}">{{ week.title }}</h3>
-  <div class="week-body">
+<tr>
+  <th scope="row" class="col-week">{{ week.title }}</th>
+  <td>
     {% if week.topics.size > 0 %}
-    <p><strong>Lecture Topics</strong></p>
-    <ul>
+    <ul class="week-topics">
       {% for t in week.topics %}
       <li>{{ t }}</li>
       {% endfor %}
     </ul>
+    {% else %}
+    <span class="text-muted">—</span>
     {% endif %}
-
+  </td>
+  <td>
     {% if week.events.size > 0 %}
-    <p><strong>Due dates / Events</strong></p>
     <ul class="week-events">
       {% for event in week.events %}
       <li>
@@ -20,11 +21,15 @@
       </li>
       {% endfor %}
     </ul>
+    {% else %}
+    <span class="text-muted">—</span>
     {% endif %}
-
-    {% if week.section %}
-    <p><strong>Section (Fri)</strong></p>
-    <p>{{ week.section }}</p>
+  </td>
+  <td class="col-section">
+    {% if week.section and week.section != 'n/a' %}
+    {{ week.section }}
+    {% else %}
+    <span class="text-muted">—</span>
     {% endif %}
-  </div>
-</div>
+  </td>
+</tr>
