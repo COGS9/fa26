@@ -38,7 +38,7 @@ If you are joining the course late and would still like to earn full credit for 
 ## Office Hours
 * **Prof. T (Brendan)**:
   * Wednesdays 11:00AM-12:00PM @ CSB 259
-  * Thursdays 2:00-3:00PM @ Zoom (link)
+  * Thursdays 2:00-3:00PM @ [Zoom](https://ucsd.zoom.us/j/3369887036)
 * **Lindsey Gu (TA)**: Mondays 1:00-2:00PM @ Zoom (link)
 * **Emily Cheng (TA)**: Tuesdays 10:45-11:45AM @ Zoom (link)
 

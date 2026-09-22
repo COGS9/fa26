@@ -26,9 +26,18 @@
     {% endif %}
     </p>
     {% unless include.nobio == 'true' %}
+    {% if staff.description %}
     <p title="Description">🎓 {{ staff.description }}</p>
-    <p title="Hometown"> 🏠 {{ staff.hometown }}</p>
+    {% endif %}
+    {% if staff.work %}
+    <p title="Work">🧑‍🔬 {{ staff.work }}</p>
+    {% endif %}
+    {% if staff.hometown %}
+    <p title="Hometown">🏠 {{ staff.hometown }}</p>
+    {% endif %}
+    {% if staff.askabout %}
     <p title="In office hours, ask me about...">💬 {{ staff.askabout }}</p>
+    {% endif %}
     {% endunless %}
   </div>
 </div>
