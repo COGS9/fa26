@@ -15,13 +15,13 @@
   events:
     - label: MISC
       type: misc
-      title: Pre-course survey released
+      title: Pre-course survey released (Fri)
     - label: QUIZ
       type: quiz
-      title: Syllabus quiz released
+      title: Syllabus quiz released (Fri)
     - label: QUIZ
       type: quiz
-      title: R1 quiz released
+      title: R1 quiz released (Fri)
   section: n/a
 
 - week: 1
@@ -40,13 +40,13 @@
   events:
     - label: MISC
       type: misc
-      title: Pre-course survey due
+      title: Pre-course survey due (Wed)
     - label: QUIZ
       type: quiz
-      title: Syllabus quiz due
+      title: Syllabus quiz due (Wed)
     - label: QUIZ
       type: quiz
-      title: R1 quiz due
+      title: R1 quiz due (Wed)
   section: Discuss R2 · group finding
 
 - week: 3
@@ -57,10 +57,10 @@
   events:
     - label: QUIZ
       type: quiz
-      title: R2 quiz due
+      title: R2 quiz due (Mon)
     - label: PROJ
       type: project
-      title: Project group-finding survey due
+      title: Project group-finding survey due (Wed)
   section: Meet with project group
 
 - week: 4
@@ -87,7 +87,7 @@
   events:
     - label: PROJ
       type: project
-      title: P1 group project checkpoint 1 due (Mon)
+      title: P1 group project checkpoint 1 due (Wed)
   section: Exam reflection
 
 - week: 6
@@ -98,7 +98,7 @@
   events:
     - label: QUIZ
       type: quiz
-      title: R4 quiz due (Mon)
+      title: R4 quiz due (Wed)
   section: Discuss R4 · A1 help
 
 - week: 7
@@ -108,7 +108,7 @@
   events:
     - label: HW
       type: hw
-      title: A1 data visualization due (Mon)
+      title: A1 data visualization due (Wed)
     - label: MISC
       type: misc
       title: Veterans Day — no class (Wed)
@@ -122,7 +122,7 @@
   events:
     - label: HW
       type: hw
-      title: A2 p-values due (Mon)
+      title: A2 p-values due (Wed)
     - label: QUIZ
       type: quiz
       title: Algorithms quiz due (Fri)
@@ -152,7 +152,7 @@
   events:
     - label: HW
       type: hw
-      title: A3 machine learning due (Mon)
+      title: A3 machine learning due (Wed)
     - label: GUEST
       type: lecture
       title: 'Guest lecture: Tyler Haas (Wed)'
