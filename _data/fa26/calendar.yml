@@ -57,7 +57,7 @@
   events:
     - label: QUIZ
       type: quiz
-      title: R2 quiz due (Mon)
+      title: R2 quiz due (Wed)
     - label: PROJ
       type: project
       title: Project group-finding survey due (Wed)
