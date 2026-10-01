@@ -29,8 +29,8 @@ office_hours:
   - name: Emily Cheng (TA)
     day: Tuesdays
     time: 10:45-11:45AM
-    location: Zoom (link)
-    zoom_link: 
+    location: Zoom
+    zoom_link: https://ucsd.zoom.us/j/92435216270
     zoom_pw: 
 
 announcement:
