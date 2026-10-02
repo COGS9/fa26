@@ -27,6 +27,9 @@ nav_order: 1
 {{ course_vars.timings }}
 {: .md-badge-purple }
 
+{: .important }
+📝 **Group-finding survey now open** — [fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSfZOdH7xMjDNHpSUyn2q16QQFVWTlMF5RnRipBd9bw6V5AeLA/viewform?usp=header) to be matched with a project group!
+
 {% include staffer.html staff=staff nobio='true' %}
 
 {: .note }
