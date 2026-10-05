@@ -42,7 +42,7 @@ If you are joining the course late and would still like to earn full credit for 
 * **Prof. T (Brendan)**:
   * Wednesdays 11:00AM-12:00PM @ CSB 259
   * Thursdays 1:00-2:00PM by appointment — [book a 10-min slot](https://calendar.app.google/zXUSCHjJdczjwcBx9)
-* **Lindsey Gu (TA)**: Mondays 1:00-2:00PM @ Zoom (link)
+* **Lindsey Gu (TA)**: Mondays 1:00-2:00PM @ [Zoom](https://ucsd.zoom.us/j/96654559215?pwd=2FTiXE6A2xyGnGaLiAkDZ9JZo4dZbW.1)
 * **Emily Cheng (TA)**: Tuesdays 10:45-11:45AM @ [Zoom](https://ucsd.zoom.us/j/92435216270)
 
 <!-- **{{ course_vars.announcement.text }}** -->
