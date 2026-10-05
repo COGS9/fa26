@@ -9,7 +9,7 @@ permalink: /group-project/groups
 
 <h1>Forming Project Groups</h1>
 
--  Project group-finding survey form (ONLY fill this out if you would like to be assigned to a group OR if you want to add 1-3 more people to your group!) <a href=" " target="_blank" rel="noopener">coming soon!!&#x2197;</a>
+-  Project group-finding survey form (ONLY fill this out if you would like to be assigned to a group OR if you want to add 1-3 more people to your group!) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZOdH7xMjDNHpSUyn2q16QQFVWTlMF5RnRipBd9bw6V5AeLA/viewform?usp=header" target="_blank" rel="noopener">fill it out here&#x2197;</a>
 
 You will have **two options** for forming a project group of 4-5 students (both options are equally awesome!):
 1. You may choose your own group—we highly, highly recommend choosing students who are in **the same discussion section** as you (meaning those who are regularly attending that section), so that you can use section time to meet and touch base about the project. If you want to form group with friends outside of your section, **please ensure** that you are able to meet regularly with them. This is _your_ responsibility!
