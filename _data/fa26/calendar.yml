@@ -12,6 +12,7 @@
   title: "Week 0"
   topics:
     - Course overview
+    - What is data science?
   events:
     - label: MISC
       type: misc
@@ -27,16 +28,16 @@
 - week: 1
   title: "Week 1"
   topics:
-    - What is data science?
     - Data science questions
+    - Ethics & privacy
   events: []
   section: Meet & greet · discuss R1 · project examples · group finding
 
 - week: 2
   title: "Week 2"
   topics:
-    - Ethics & privacy
     - Data & data types
+    - Obtaining data
   events:
     - label: MISC
       type: misc
@@ -52,8 +53,8 @@
 - week: 3
   title: "Week 3"
   topics:
-    - Obtaining data
     - Wrangling data
+    - Data visualization 1
   events:
     - label: QUIZ
       type: quiz
@@ -66,7 +67,7 @@
 - week: 4
   title: "Week 4"
   topics:
-    - Data visualization
+    - Data visualization 2
   events:
     - label: EXAM
       type: exam
@@ -117,7 +118,7 @@
 - week: 8
   title: "Week 8"
   topics:
-    - Algorithms & AI
+    - Algorithms & guest lecture
     - No classes — recorded lecture
   events:
     - label: HW
@@ -131,7 +132,8 @@
 - week: 9
   title: "Week 9"
   topics:
-    - Guest lecture
+    - AI
+    - Thanksgiving
   events:
     - label: EXAM
       type: exam
