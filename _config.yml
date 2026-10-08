@@ -75,6 +75,10 @@ aux_links:
   - 'https://canvas.ucsd.edu/courses/77853/'
   📝 Pre-class Survey:
   - 'https://docs.google.com/forms/d/e/1FAIpQLSdglPncIn_rO7L51Djmd36mqluDKInRk-2d9Q-AUNkbZM5-Dw/viewform?usp=dialog'
+  👥 Group-finding Survey:
+  - 'https://docs.google.com/forms/d/e/1FAIpQLSfZOdH7xMjDNHpSUyn2q16QQFVWTlMF5RnRipBd9bw6V5AeLA/viewform?usp=header'
+  🎤 Guest Speaker Question Form:
+  - 'https://docs.google.com/forms/d/e/1FAIpQLSeT6k7PSap_qKLEVHmaD3PYfucm8rhQVHHa3PVFpV-EISv5Vg/viewform?usp=header'
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
