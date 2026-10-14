@@ -18,4 +18,12 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec6_obtain.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 6 — Obtaining Data &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec7_obtain_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 7 — Obtaining Data (cont.) &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec8_wrangle.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 8 — Wrangling Data &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec9_wrangle_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 9 — Wrangling Data (cont.) &#x2197;</a></li>
+</ul>
+
+<h2>Section Slides</h2>
+
+<ul>
+  <li><a href="{{ '/assets/sections/Week1.pdf' | relative_url }}" target="_blank" rel="noopener">Week 1 — Section &#x2197;</a></li>
+  <li><a href="{{ '/assets/sections/Week2.pdf' | relative_url }}" target="_blank" rel="noopener">Week 2 — Section &#x2197;</a></li>
 </ul>
