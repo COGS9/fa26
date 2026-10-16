@@ -27,4 +27,5 @@ Slides from each lecture will be posted here. Click a link to view or download t
 <ul>
   <li><a href="{{ '/assets/sections/Week1.pdf' | relative_url }}" target="_blank" rel="noopener">Week 1 — Section &#x2197;</a></li>
   <li><a href="{{ '/assets/sections/Week2.pdf' | relative_url }}" target="_blank" rel="noopener">Week 2 — Section &#x2197;</a></li>
+  <li><a href="{{ '/assets/sections/Week3.pdf' | relative_url }}" target="_blank" rel="noopener">Week 3 — Section &#x2197;</a></li>
 </ul>
