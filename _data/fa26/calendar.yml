@@ -6,7 +6,7 @@
 #
 # Things to confirm later:
 #   1. "Algorithms quiz" (Week 8) appears in addition to the five R-quizzes.
-#   2. Guest-lecture names: Taylor Butler (Week 4), Tyler Haas (Week 10).
+#   2. Guest-lecture names: Taylor Butler (Week 4), P. Tyler Haas (Week 10).
 
 - week: 0
   title: "Week 0"
@@ -62,11 +62,13 @@
     - label: PROJ
       type: project
       title: Project group-finding survey due (Wed)
-  section: Meet with project group
+  section: Exam review
 
 - week: 4
   title: "Week 4"
   topics:
+    - Exam
+    - Guest lecture
     - Data visualization 2
   events:
     - label: EXAM
@@ -78,13 +80,13 @@
     - label: GUEST
       type: lecture
       title: 'Guest lecture: Taylor Butler, Research Lead, Dewey Data (Fri)'
-  section: Exam review
+  section: Meet with project group
 
 - week: 5
   title: "Week 5"
   topics:
-    - Data visualization (cont.)
     - Exploratory data analysis
+    - Statistical inference
   events:
     - label: PROJ
       type: project
@@ -94,7 +96,6 @@
 - week: 6
   title: "Week 6"
   topics:
-    - Statistical inference
     - Machine learning
   events:
     - label: QUIZ
@@ -105,7 +106,8 @@
 - week: 7
   title: "Week 7"
   topics:
-    - Machine learning (cont.)
+    - Machine learning
+    - Algorithms
   events:
     - label: HW
       type: hw
@@ -118,7 +120,7 @@
 - week: 8
   title: "Week 8"
   topics:
-    - Algorithms & guest lecture
+    - Algorithms (cont.) & guest lecture
     - No classes — recorded lecture
   events:
     - label: HW
@@ -126,7 +128,7 @@
       title: A2 p-values due (Wed)
     - label: QUIZ
       type: quiz
-      title: Algorithms quiz due (Fri)
+      title: Algorithms attendance quiz due (Fri)
   section: Exam prep
 
 - week: 9
@@ -157,7 +159,7 @@
       title: A3 machine learning due (Wed)
     - label: GUEST
       type: lecture
-      title: 'Guest lecture: Tyler Haas (Wed)'
+      title: 'Guest lecture: P. Tyler Haas (Wed)'
   section: Exam reflection · group work
 
 - week: 11
