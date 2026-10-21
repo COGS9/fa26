@@ -20,6 +20,7 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec8_wrangle.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 8 — Wrangling Data &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec9_wrangle_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 9 — Wrangling Data (cont.) &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec10_viz.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 10 — Data Visualization 1 &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec11_viz_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 11 — Data Visualization 2 &#x2197;</a></li>
 </ul>
 
 <h2>Section Slides</h2>
