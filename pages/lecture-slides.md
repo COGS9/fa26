@@ -21,6 +21,7 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec9_wrangle_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 9 — Wrangling Data (cont.) &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec10_viz.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 10 — Data Visualization 1 &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec11_viz_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 11 — Data Visualization 2 &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec12_EDA.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 12 — Exploratory Data Analysis &#x2197;</a></li>
 </ul>
 
 <h2>Section Slides</h2>
@@ -29,4 +30,5 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/sections/Week1.pdf' | relative_url }}" target="_blank" rel="noopener">Week 1 — Section &#x2197;</a></li>
   <li><a href="{{ '/assets/sections/Week2.pdf' | relative_url }}" target="_blank" rel="noopener">Week 2 — Section &#x2197;</a></li>
   <li><a href="{{ '/assets/sections/Week3.pdf' | relative_url }}" target="_blank" rel="noopener">Week 3 — Section &#x2197;</a></li>
+  <li><a href="{{ '/assets/sections/Week4.pdf' | relative_url }}" target="_blank" rel="noopener">Week 4 — Section &#x2197;</a></li>
 </ul>
