@@ -91,7 +91,7 @@
     - label: PROJ
       type: project
       title: P1 group project checkpoint 1 due (Wed)
-  section: Exam reflection
+  section: Discuss R4 · A1 help
 
 - week: 6
   title: "Week 6"
@@ -101,7 +101,7 @@
     - label: QUIZ
       type: quiz
       title: R4 quiz due (Wed)
-  section: Discuss R4 · A1 help
+  section: A2 help · group work
 
 - week: 7
   title: "Week 7"
@@ -115,7 +115,7 @@
     - label: MISC
       type: misc
       title: Veterans Day — no class (Wed)
-  section: A2 help · group work
+  section: Group work
 
 - week: 8
   title: "Week 8"
