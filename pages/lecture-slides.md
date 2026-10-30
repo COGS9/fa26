@@ -22,7 +22,8 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec10_viz.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 10 — Data Visualization 1 &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec11_viz_ctd.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 11 — Data Visualization 2 &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec12_EDA.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 12 — Exploratory Data Analysis &#x2197;</a></li>
-  <li><a href="{{ '/assets/lectures/lec13_EDA_stats.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 13 — Statistical Inference &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec13_EDA_stats.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 13 — EDA &amp; Statistical Testing &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec14_stats.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 14 — Statistical Inference &#x2197;</a></li>
 </ul>
 
 <h2>Section Slides</h2>
