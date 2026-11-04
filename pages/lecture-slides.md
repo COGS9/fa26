@@ -25,6 +25,7 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec13_EDA_stats.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 13 — EDA &amp; Statistical Testing &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec14_stats.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 14 — Statistical Inference &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec15_ml1.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 15 — Machine Learning: Supervised Learning &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec16_ml2.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 16 — Machine Learning: Supervised Learning &amp; Evaluation &#x2197;</a></li>
 </ul>
 
 <h2>Section Slides</h2>
@@ -34,4 +35,5 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/sections/Week2.pdf' | relative_url }}" target="_blank" rel="noopener">Week 2 — Section &#x2197;</a></li>
   <li><a href="{{ '/assets/sections/Week3.pdf' | relative_url }}" target="_blank" rel="noopener">Week 3 — Section &#x2197;</a></li>
   <li><a href="{{ '/assets/sections/Week4.pdf' | relative_url }}" target="_blank" rel="noopener">Week 4 — Section &#x2197;</a></li>
+  <li><a href="{{ '/assets/sections/Week5.pdf' | relative_url }}" target="_blank" rel="noopener">Week 5 — Section &#x2197;</a></li>
 </ul>
