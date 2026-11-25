@@ -29,6 +29,7 @@ Slides from each lecture will be posted here. Click a link to view or download t
   <li><a href="{{ '/assets/lectures/lec17_ml3.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 17 — Machine Learning: Unsupervised Learning &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec18_ml4.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 18 — Machine Learning: Reinforcement Learning &amp; Review &#x2197;</a></li>
   <li><a href="{{ '/assets/lectures/lec19_lm.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 19 — Language Models &#x2197;</a></li>
+  <li><a href="{{ '/assets/lectures/lec20_fairness.pdf' | relative_url }}" target="_blank" rel="noopener">Lecture 20 — Algorithmic Bias &amp; Fairness &#x2197;</a></li>
 </ul>
 
 <h2>Section Slides</h2>
